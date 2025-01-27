@@ -1,0 +1,31 @@
+/*  Banner e logo   */
+#logo {
+    height: 18%;
+    width: 18%;
+  }
+
+#banner {
+    background-image: url('/img/pattern.png');
+    background-color: rgb(79, 159, 255);
+}
+/*  /Banner e logo   */
+
+/*  Titolo e autore   */
+h1 {
+    font-size: 320%;
+    margin-block-end: 0em;
+}
+
+#info-articolo {
+    margin-block-start: 0em;
+    color: rgb(127, 127, 127);
+}
+
+#bool {
+    color: rgb(30, 164, 227);
+}
+
+#data {
+    font-size: 70%;
+}
+/*  Titolo e autore   */
