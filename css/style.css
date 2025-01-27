@@ -45,3 +45,30 @@ h1 {
     font-size: 80%;
 }
 /*  /Immagini e Descrizioni  */
+
+.highlight {
+    background-color: yellow;
+}
+
+thead {
+    background-color: rgb(37, 167, 228);
+}
+
+.tr-dispari {
+    background-color: rgb(176, 228, 242);
+}
+
+.tc1 {
+    table-layout: fixed;
+    width: 25%;
+}
+
+.tc2 {
+    table-layout: fixed;
+    width: 25%;
+}
+
+.tc3 {
+    table-layout: fixed;
+    width: 50%;
+}
