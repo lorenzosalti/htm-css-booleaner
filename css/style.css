@@ -29,3 +29,19 @@ h1 {
     font-size: 70%;
 }
 /*  Titolo e autore   */
+
+/*  Immagini e Descrizioni  */
+#tim-1 {
+    width: 48%;
+    height: 48%;
+}
+
+#tim-2 {
+    width: 41%;
+    height: 41%;
+}
+
+.ph-descr {
+    font-size: 80%;
+}
+/*  /Immagini e Descrizioni  */
